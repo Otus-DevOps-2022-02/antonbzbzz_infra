@@ -1,4 +1,5 @@
 # antonbzbzz_infra
+cloud-bastion
 Добрый день!
 Для подключения одной командой можно использовать скрипт:
 #!/usr/bin/expect
